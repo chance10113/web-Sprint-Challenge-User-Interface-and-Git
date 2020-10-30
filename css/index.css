@@ -318,6 +318,10 @@ header nav a {
   background-color: dodgerblue;
 }
 
+.section-bottom-about{
+    margin:5% 10%
+}
+
 .bottom-content {
   display: flex;
   margin: 0 2% 20px;
@@ -333,7 +337,8 @@ header nav a {
 }
 
 footer {
-  width: 100%;
+  width: 85%;
+  margin: auto;
   background: black;
 }
 
