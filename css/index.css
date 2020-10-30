@@ -189,13 +189,31 @@ header nav a {
   margin: 3% 0;
 }
 
+.container-about-page{ 
+   display:flex;
+}
+
+.top-about{
+    border:blue solid 1px;
+    margin:0 7% 0 15%
+}
+
+.about{
+    border: red solid 1px;
+}
+
+
+.header-about {
+    display: flex;
+    margin: 2% 13%;
+  }
 
 .header-splash-img-about{
     background-image: url(/img/jumbo-about.png);
     background-color: greenyellow;
     width: 80%;
-    height: 15vh;
-    margin: 5% 5%;
+    height: 16.5vh;
+    margin: 5% 2% 5% 13%;
 }
 
 .top-content {
