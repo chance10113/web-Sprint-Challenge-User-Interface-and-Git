@@ -194,12 +194,33 @@ header nav a {
 }
 
 .top-about{
-    border:blue solid 1px;
+    border-bottom: 1px dotted black;
     margin:0 7% 0 15%
 }
 
+
+.about-content{
+    display:flex;
+    flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   margin:0;
+}
+
 .about{
-    border: red solid 1px;
+    border-bottom: 1px dotted black;
+    width:40%;
+    padding:5% 0;
+    margin:0% 3%;
+}
+
+.about a{
+    border: 2px black solid;
+    padding:2%;
+    margin:10%;
+    text-decoration: none;
+    color:black;
+    border-radius: 13%;
 }
 
 
