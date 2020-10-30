@@ -217,12 +217,14 @@ header nav a {
 .about a{
     border: 2px black solid;
     padding:2%;
-    margin:10%;
     text-decoration: none;
     color:black;
     border-radius: 13%;
 }
 
+.learn-more{
+    margin:10% 0 0 0;
+}
 
 .header-about {
     display: flex;
