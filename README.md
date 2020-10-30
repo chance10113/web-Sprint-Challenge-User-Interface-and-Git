@@ -34,23 +34,31 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is to use code that has meaning. For example, "section" has inherrant meaning to you and me, but "div" doesn't. It allows for the next person looking at the code to understand it better, as well as screenreaders for disabled people.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+display:block takes up the entire space, whereas display:inline only takes up as much as is needed. Inline ignores height and width, and Block starts on a new line.
+
 3. What are the 4 areas of the box model?
+
+Content -    padding -   border  -  margin  
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
 5. Explain why git is valuable to a team of developers.
 
+Git allows for an entire team to have access to the same material, and, to be able to review changes amongst themselves very easily. It also allows fo rversion records, and commits explaining changes between versions. It alos allows for safe keeping of the material.
+
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push -u origin `<firstName-lastName>`.
+- [X] Create a forked copy of this project.
+- [X] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [X] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [X] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [X] Push commits: git push -u origin `<firstName-lastName>`.
  
 Follow these steps for completing your project.
 
