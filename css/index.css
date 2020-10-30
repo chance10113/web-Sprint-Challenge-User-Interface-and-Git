@@ -189,54 +189,53 @@ header nav a {
   margin: 3% 0;
 }
 
-.container-about-page{ 
-   display:flex;
+.container-about-page {
+  display: flex;
 }
 
-.top-about{
-    border-bottom: 1px dotted black;
-    margin:0 7% 0 15%
+.top-about {
+  border-bottom: 1px dotted black;
+  margin: 0 7% 0 15%;
 }
 
-
-.about-content{
-    display:flex;
-    flex-direction: row;
-   flex-wrap: wrap;
-   justify-content: space-around;
-   margin:0;
+.about-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0;
 }
 
-.about{
-    border-bottom: 1px dotted black;
-    width:40%;
-    padding:5% 0;
-    margin:0% 3%;
+.about {
+  border-bottom: 1px dotted black;
+  width: 40%;
+  padding: 5% 0;
+  margin: 0% 3%;
 }
 
-.about a{
-    border: 2px black solid;
-    padding:2%;
-    text-decoration: none;
-    color:black;
-    border-radius: 13%;
+.about a {
+  border: 2px black solid;
+  padding: 2%;
+  text-decoration: none;
+  color: black;
+  border-radius: 13%;
 }
 
-.learn-more{
-    margin:10% 0 0 0;
+.learn-more {
+  margin: 10% 0 0 0;
 }
 
 .header-about {
-    display: flex;
-    margin: 2% 13%;
-  }
+  display: flex;
+  margin: 2% 13%;
+}
 
-.header-splash-img-about{
-    background-image: url(/img/jumbo-about.png);
-    background-color: greenyellow;
-    width: 80%;
-    height: 16.5vh;
-    margin: 5% 2% 5% 13%;
+.header-splash-img-about {
+  background-image: url(/img/jumbo-about.png);
+  background-color: greenyellow;
+  width: 80%;
+  height: 16.5vh;
+  margin: 5% 2% 5% 13%;
 }
 
 .top-content {
@@ -320,8 +319,8 @@ header nav a {
   background-color: dodgerblue;
 }
 
-.section-bottom-about{
-    margin:5% 10%
+.section-bottom-about {
+  margin: 5% 10%;
 }
 
 .bottom-content {
