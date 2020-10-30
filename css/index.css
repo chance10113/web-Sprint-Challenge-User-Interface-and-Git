@@ -73,20 +73,18 @@ p {
 }
 
  header{
-border: 1px solid  red;
 display:flex;
-margin:4% 0;
+margin:2% 0;
 }
 
 header img{
-    border: 1px solid  red;
     width:20%;
 }
 
 header nav{
     display: flex;
     justify-content: space-around;
-    padding: 20px 2%;
+    padding: 3% 2% 0% 2%;
     font-size: 14px;
     width:80%;
     flex-direction: row;
